@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello! Welcome to my profile
 
+I am currently a student at the *University of California Irvine*
+I am currently learning computer science
+I would like to be a full stack developer and program both front end and backend in projects
+I have linked my LinkedIn profile to so you may go see any relevant experience.
+[Link](www.linkedin.com/in/spencer-peng-935389327)
 <!--
 **spencep1/spencep1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
