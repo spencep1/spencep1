@@ -5,7 +5,7 @@ I am currently learning computer science \
 I would like to be a full stack developer and program both front end and backend in projects \
 I enjoy programming in Javascript, Python, C and C++
 I have linked my LinkedIn profile to so you may go see any relevant experience. \
-[My LinkedIn Profile](www.linkedin.com/in/spencer-peng-935389327)
+www.linkedin.com/in/spencer-peng-935389327
 <!--
 **spencep1/spencep1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
