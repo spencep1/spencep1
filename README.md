@@ -3,7 +3,7 @@
 I am currently a student at the *University of California Irvine* \
 I am currently learning computer science \
 I would like to be a full stack developer and program both front end and backend in projects \
-I enjoy programming in Javascript, Python, C and C++
+I enjoy programming in Javascript, Python, C and C++\
 I have linked my LinkedIn profile to so you may go see any relevant experience. \
 www.linkedin.com/in/spencer-peng-935389327
 <!--
